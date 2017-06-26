@@ -1,0 +1,59 @@
+body {
+    background-color: grey;
+}
+
+p {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    align-content: center;
+}
+
+header {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    position: fixed;
+}
+
+h1 {
+    font-size: 1em;
+    line-height: .5em;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+}
+
+.h-links {
+    font-family: fantasy;
+}
+
+#name {
+    text-align: center;
+}
+
+#introduction {
+    color: yellow;
+}
+
+#project-1 {
+    margin: 0 auto;
+}
+
+#project-2 {
+    margin: 0 auto;
+}
+
+#project-3 {
+    margin: 0 auto;
+}
+
+#project-4 {
+    margin: 0 auto;
+}
